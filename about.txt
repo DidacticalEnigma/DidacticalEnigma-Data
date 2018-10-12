@@ -1,0 +1,27 @@
+﻿This program's goal is to assist in translation.
+
+This program uses and relies on:
+- NMeCab project:
+    https://osdn.net/projects/nmecab
+- JMdict project:
+    http://www.edrdg.org/wiki/index.php/JMdict-EDICT_Dictionary_Project
+- JMnedict project:
+    http://www.edrdg.org/enamdict/enamdict_doc.html
+- KRADFILE/RADKFILE:
+    http://www.edrdg.org/krad/kradinf.html
+- KANJIDIC2 file:
+    http://www.edrdg.org/kanjidic/kanjd2index.html
+- Tanaka Corpus:
+    http://www.edrdg.org/wiki/index.php/Tanaka_Corpus
+- Japanese-English Subtitle Corpus:
+    https://nlp.stanford.edu/projects/jesc/
+- Japanese-English-Chinese Basic Statements Corpus:
+    http://nlp.ist.i.kyoto-u.ac.jp/index.php?%E6%97%A5%E8%8B%B1%E4%B8%AD%E5%9F%BA%E6%9C%AC%E6%96%87%E3%83%87%E3%83%BC%E3%82%BF
+- Kanji Stroke Order font:
+    http://nihilist.org.uk
+- Japanese lemma and exact word form frequency lists:
+    http://corpus.leeds.ac.uk/list.html
+- Resources available from the following wikipedia pages:
+    https://en.wiktionary.org/wiki/Appendix:Easily_confused_Japanese_kana
+    https://en.wikipedia.org/wiki/Hiragana
+    https://en.wikipedia.org/wiki/Katakana
