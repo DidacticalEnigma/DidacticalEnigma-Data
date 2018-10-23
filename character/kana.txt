@@ -1,0 +1,121 @@
+あ ア a regular
+い イ i regular
+う ウ u regular
+え エ e regular
+お オ o regular
+か カ ka regular
+き キ ki regular
+く ク ku regular
+け ケ ke regular
+こ コ ko regular
+さ サ sa regular
+し シ shi regular
+す ス su regular
+せ セ se regular
+そ ソ so regular
+た タ ta regular
+ち チ chi regular
+つ ツ tsu regular
+て テ te regular
+と ト to regular
+な ナ na regular
+に ニ ni regular
+ぬ ヌ nu regular
+ね ネ ne regular
+の ノ no regular
+は ハ ha regular
+ひ ヒ hi regular
+ふ フ fu regular
+へ ヘ he regular
+ほ ホ ho regular
+ま マ ma regular
+み ミ mi regular
+む ム mu regular
+め メ me regular
+も モ mo regular
+や ヤ ya regular
+ゆ ユ yu regular
+よ ヨ yo regular
+ら ラ ra regular
+り リ ri regular
+る ル ru regular
+れ レ re regular
+ろ ロ ro regular
+わ ワ wa regular
+ゐ ヰ wi archaic
+ゑ ヱ we archaic
+を ヲ wo regular
+ん ン n regular
+ぁ ァ ? small あ
+ぃ ィ ? small い
+ぅ ゥ ? small う
+ぇ ェ ? small え
+ぉ ォ ? small お
+ゕ ヵ ? small か
+ゖ ヶ ? small け
+っ ッ ? small つ
+ゃ ャ ? small や
+ゅ ュ ? small ゆ
+ょ ョ ? small よ
+ゎ ヮ ? small わ
+が ガ ga dakuten か
+ぎ ギ gi dakuten き
+ぐ グ gu dakuten く
+げ ゲ ge dakuten け
+ご ゴ go dakuten こ
+ざ ザ za dakuten さ
+じ ジ ji dakuten し
+ず ズ zu dakuten す
+ぜ ゼ ze dakuten せ
+ぞ ゾ zo dakuten そ
+だ ダ da dakuten た
+ぢ ヂ ji dakuten ち
+ず ズ dzu dakuten す
+で デ de dakuten て
+ど ド do dakuten と
+ば バ ba dakuten は
+び ビ bi dakuten ひ
+ぶ ブ bu dakuten ふ
+べ ベ be dakuten へ
+ぼ ボ bo dakuten ほ
+ぱ パ pa handakuten は
+ぴ ピ pi handakuten ひ
+ぷ プ pu handakuten ふ
+ぺ ペ pe handakuten へ
+ぽ ポ po handakuten ほ
+きゃ キャ kya combo
+きゅ キュ kyu combo
+きょ キョ kyo combo
+しゃ シャ sha combo
+しゅ シュ shu combo
+しょ ショ sho combo
+ちゃ チャ cha combo
+ちゅ チュ chu combo
+ちょ チョ cho combo
+にゃ ニャ nya combo
+にゅ ニュ nyu combo
+にょ ニョ nyo combo
+ひゃ ヒャ hya combo
+ひゅ ヒュ hyu combo
+ひょ ヒョ hyo combo
+みゃ ミャ mya combo
+みゅ ミュ myu combo
+みょ ミョ myo combo
+りゃ リャ rya combo
+りゅ リュ ryu combo
+りょ リョ ryo combo
+ぎゃ ギャ gya combo
+ぎゅ ギュ gyu combo
+ぎょ ギョ gyo combo
+じゃ ジャ ja combo
+じゅ ジュ ju combo
+じょ ジョ jo combo
+ぢゃ ヂャ dya combo
+ぢゅ ヂュ dyu combo
+ぢょ ヂョ dyo combo
+びゃ ビャ bya combo
+びゅ ビュ byu combo
+びょ ビョ byo combo
+ぴゃ ピャ pya combo
+ぴゅ ピュ pyu combo
+ぴょ ピョ pyo combo
