@@ -21,6 +21,9 @@ This program uses and relies on:
     http://nihilist.org.uk
 - Japanese lemma and exact word form frequency lists:
     http://corpus.leeds.ac.uk/list.html
+- kanji.tgz_similars.ut8 file containing similar kanji
+    https://github.com/siikamiika/similar-kanji
+    http://ppcenter.webou.net/my_jwpce/
 - Resources available from the following wikipedia pages:
     https://en.wiktionary.org/wiki/Appendix:Easily_confused_Japanese_kana
     https://en.wikipedia.org/wiki/Hiragana
