@@ -1,2 +1,3 @@
-You can put yomichan-import exported dictionaries here. Currently only one EPWING file is supported at a time.
-You need to use yomichan-import on your EPWING dictionary first, and put the generated zip file here. You also need 7zip installed on your machine.
+You can put yomichan-import exported dictionaries here.
+You need to use yomichan-import on your EPWING dictionary first, and put the generated zip file here.
+You also need 7zip installed on your machine.
