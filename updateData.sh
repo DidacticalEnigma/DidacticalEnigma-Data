@@ -14,7 +14,7 @@ function update() {
 	cd ..
 }
 
-update dictionaries JMdict_e.gz ftp://ftp.monash.edu.au/pub/nihongo/JMdict_e.gz
-#update dictionaries JMnedict.xml.gz http://ftp.monash.edu/pub/nihongo/JMnedict.xml.gz
-#update character kanjidic2.xml.gz http://www.edrdg.org/kanjidic/kanjidic2.xml.gz
+update dictionaries JMdict_e.gz http://ftp.edrdg.org/pub/Nihongo/JMdict_e.gz
+update dictionaries JMnedict.xml.gz http://ftp.edrdg.org/pub/Nihongo/JMnedict.xml.gz
+update character kanjidic2.xml.gz http://ftp.edrdg.org/pub/Nihongo/kanjidic2.xml.gz
 
