@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- test 29 May 2021 -->
 <!-- Rev 1.09
         Added the g_type attribute
 -->
@@ -231,6 +232,7 @@
 various information fields.
 -->
 <!-- <dial> (dialect) entities -->
+<!ENTITY bra "Brazilian">
 <!ENTITY hob "Hokkaido-ben">
 <!ENTITY ksb "Kansai-ben">
 <!ENTITY ktb "Kantou-ben">
@@ -320,7 +322,8 @@ various information fields.
 <!ENTITY ik "word containing irregular kana usage">
 <!ENTITY iK "word containing irregular kanji usage">
 <!ENTITY io "irregular okurigana usage">
-<!ENTITY oK "word containing out-dated kanji">
+<!ENTITY oK "word containing out-dated kanji or kanji usage">
+<!ENTITY rK "rarely-used kanji form">
 <!-- <misc> (miscellaneous) entities -->
 <!ENTITY abbr "abbreviation">
 <!ENTITY arch "archaism">
@@ -332,18 +335,20 @@ various information fields.
 <!ENTITY dated "dated term">
 <!ENTITY dei "deity">
 <!ENTITY derog "derogatory">
+<!ENTITY doc "document">
 <!ENTITY ev "event">
 <!ENTITY fam "familiar language">
 <!ENTITY fem "female term or language">
 <!ENTITY fict "fiction">
+<!ENTITY form "formal or literary term">
 <!ENTITY given "given name or forename, gender not specified">
+<!ENTITY group "group">
 <!ENTITY hist "historical term">
 <!ENTITY hon "honorific or respectful (sonkeigo) language">
 <!ENTITY hum "humble (kenjougo) language">
 <!ENTITY id "idiomatic expression">
 <!ENTITY joc "jocular, humorous term">
 <!ENTITY leg "legend">
-<!ENTITY litf "literary or formal term">
 <!ENTITY m-sl "manga slang">
 <!ENTITY male "male term or language">
 <!ENTITY myth "mythology">
@@ -473,6 +478,6 @@ various information fields.
 <!ENTITY ok "out-dated or obsolete kana usage">
 <!ENTITY uK "word usually written using kanji alone">
 ]>
-<!-- JMdict created: 2021-05-27 -->
+<!-- JMdict created: 2021-06-05 -->
 <JMdict>
 </JMdict>
