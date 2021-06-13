@@ -27,6 +27,10 @@ This program uses and relies on:
 - Kanji alive language data:
     https://github.com/kanjialive/kanji-data-media
     http://kanjialive.com/
+- Frequently Misunderstood Japanese: A Handy Guide For Translators
+    https://gist.github.com/milleniumbug/cf70e381e5827a4baa3c7dae26a3d218
+    https://twitter.com/zoid9000/status/1397283834199265282
+    https://drive.google.com/file/d/1M6-VKPvPYVeI_VYrX_xdcDsoifqkosW2/view
 - Resources available from the following wikipedia pages:
     https://en.wiktionary.org/wiki/Appendix:Easily_confused_Japanese_kana
     https://en.wikipedia.org/wiki/Hiragana
