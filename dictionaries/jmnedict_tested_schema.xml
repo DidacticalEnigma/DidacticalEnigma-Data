@@ -131,11 +131,12 @@ various information fields.
 <!ENTITY product "product name">
 <!ENTITY relig "religion">
 <!ENTITY serv "service">
+<!ENTITY ship "ship name">
 <!ENTITY station "railway station">
 <!ENTITY surname "family or surname">
 <!ENTITY unclass "unclassified name">
 <!ENTITY work "work of art, literature, music, etc. name">
 ]>
-<!-- JMnedict created: 2021-06-05 -->
+<!-- JMnedict created: 2023-07-30 -->
 <JMnedict>
 </JMnedict>

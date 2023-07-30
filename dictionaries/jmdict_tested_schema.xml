@@ -271,11 +271,13 @@ various information fields.
 <!ENTITY bot "botany">
 <!ENTITY Buddh "Buddhism">
 <!ENTITY bus "business">
+<!ENTITY cards "card games">
 <!ENTITY chem "chemistry">
 <!ENTITY Christn "Christianity">
 <!ENTITY cloth "clothing">
 <!ENTITY comp "computing">
 <!ENTITY cryst "crystallography">
+<!ENTITY dent "dentistry">
 <!ENTITY ecol "ecology">
 <!ENTITY econ "economics">
 <!ENTITY elec "electricity, elec. eng.">
@@ -283,6 +285,7 @@ various information fields.
 <!ENTITY embryo "embryology">
 <!ENTITY engr "engineering">
 <!ENTITY ent "entomology">
+<!ENTITY film "film">
 <!ENTITY finc "finance">
 <!ENTITY fish "fishing">
 <!ENTITY food "food, cooking">
@@ -297,36 +300,46 @@ various information fields.
 <!ENTITY grmyth "Greek mythology">
 <!ENTITY hanaf "hanafuda">
 <!ENTITY horse "horse racing">
+<!ENTITY kabuki "kabuki">
 <!ENTITY law "law">
 <!ENTITY ling "linguistics">
 <!ENTITY logic "logic">
 <!ENTITY MA "martial arts">
 <!ENTITY mahj "mahjong">
+<!ENTITY manga "manga">
 <!ENTITY math "mathematics">
 <!ENTITY mech "mechanical engineering">
 <!ENTITY med "medicine">
 <!ENTITY met "meteorology">
 <!ENTITY mil "military">
+<!ENTITY mining "mining">
 <!ENTITY music "music">
+<!ENTITY noh "noh">
 <!ENTITY ornith "ornithology">
 <!ENTITY paleo "paleontology">
 <!ENTITY pathol "pathology">
-<!ENTITY pharm "pharmacy">
+<!ENTITY pharm "pharmacology">
 <!ENTITY phil "philosophy">
 <!ENTITY photo "photography">
 <!ENTITY physics "physics">
 <!ENTITY physiol "physiology">
+<!ENTITY politics "politics">
 <!ENTITY print "printing">
 <!ENTITY psy "psychiatry">
+<!ENTITY psyanal "psychoanalysis">
 <!ENTITY psych "psychology">
 <!ENTITY rail "railway">
+<!ENTITY rommyth "Roman mythology">
 <!ENTITY Shinto "Shinto">
 <!ENTITY shogi "shogi">
+<!ENTITY ski "skiing">
 <!ENTITY sports "sports">
 <!ENTITY stat "statistics">
+<!ENTITY stockm "stock market">
 <!ENTITY sumo "sumo">
 <!ENTITY telec "telecommunications">
 <!ENTITY tradem "trademark">
+<!ENTITY tv "television">
 <!ENTITY vidg "video games">
 <!ENTITY zool "zoology">
 <!-- <ke_inf> (kanji info) entities -->
@@ -336,18 +349,20 @@ various information fields.
 <!ENTITY io "irregular okurigana usage">
 <!ENTITY oK "word containing out-dated kanji or kanji usage">
 <!ENTITY rK "rarely-used kanji form">
+<!ENTITY sK "search-only kanji form">
 <!-- <misc> (miscellaneous) entities -->
 <!ENTITY abbr "abbreviation">
-<!ENTITY arch "archaism">
+<!ENTITY arch "archaic">
 <!ENTITY char "character">
 <!ENTITY chn "children's language">
-<!ENTITY col "colloquialism">
+<!ENTITY col "colloquial">
 <!ENTITY company "company name">
 <!ENTITY creat "creature">
 <!ENTITY dated "dated term">
 <!ENTITY dei "deity">
 <!ENTITY derog "derogatory">
 <!ENTITY doc "document">
+<!ENTITY euph "euphemistic">
 <!ENTITY ev "event">
 <!ENTITY fam "familiar language">
 <!ENTITY fem "female term or language">
@@ -367,7 +382,6 @@ various information fields.
 <!ENTITY net-sl "Internet slang">
 <!ENTITY obj "object">
 <!ENTITY obs "obsolete term">
-<!ENTITY obsc "obscure term">
 <!ENTITY on-mim "onomatopoeic or mimetic word">
 <!ENTITY organization "organization name">
 <!ENTITY oth "other">
@@ -378,10 +392,11 @@ various information fields.
 <!ENTITY product "product name">
 <!ENTITY proverb "proverb">
 <!ENTITY quote "quotation">
-<!ENTITY rare "rare">
+<!ENTITY rare "rare term">
 <!ENTITY relig "religion">
 <!ENTITY sens "sensitive">
 <!ENTITY serv "service">
+<!ENTITY ship "ship name">
 <!ENTITY sl "slang">
 <!ENTITY station "railway station">
 <!ENTITY surname "family or surname">
@@ -488,8 +503,8 @@ various information fields.
 <!ENTITY gikun "gikun (meaning as reading) or jukujikun (special kanji reading)">
 <!ENTITY ik "word containing irregular kana usage">
 <!ENTITY ok "out-dated or obsolete kana usage">
-<!ENTITY uK "word usually written using kanji alone">
+<!ENTITY sk "search-only kana form">
 ]>
-<!-- JMdict created: 2021-11-01 -->
+<!-- JMdict created: 2023-07-30 -->
 <JMdict>
 </JMdict>
